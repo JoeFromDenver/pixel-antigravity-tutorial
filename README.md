@@ -58,6 +58,9 @@ antigravity
 ```
 
 *   **To see the interface:** Tap the Display Icon in the top right corner of the Terminal app window (looks like a small monitor).
+
+    ![Display Icon](images/display_icon.png)
+
 *   **Important:** The Terminal will request permission to open ports several times. Approve **all** port requests.
 
 ## Step 4: The Authentication Bridge
@@ -138,3 +141,11 @@ The Antigravity GUI cannot see the Android clipboard. Use this relay:
 2.  **Terminal:** Type `wl-copy` -> Press **Enter**.
 3.  **Terminal:** Paste text -> Press **Enter** -> Press **Ctrl+D**.
 4.  **GUI:** Press **Ctrl+V**.
+
+## Gallery
+
+Here is Antigravity running on the Pixel 10 Pro Fold:
+
+![Demo 1](images/demo_1.png)
+![Demo 2](images/demo_2.png)
+![Demo 3](images/demo_3.png)
