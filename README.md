@@ -16,7 +16,7 @@ We are running desktop software in an isolated Linux Virtual Machine (AVF).
 
 *   Pixel 10 / 10 Pro / Fold (Android 16)
 *   Android Terminal enabled in Settings.
-*   **A GitHub account** with a Personal Access Token (Classic) created.
+*   **A GitHub account** with a Personal Access Token created.
 *   A Bluetooth keyboard/mouse (Highly recommended).
 
 ## Step 1: Prepare the Linux Environment
