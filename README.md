@@ -101,7 +101,9 @@ chmod +x auth.sh
 
 GitHub requires a token instead of a password.
 
-1.  **Generate Token:** On GitHub (Settings -> Developer -> Personal Access Tokens), generate a "Classic" token with `repo` scope.
+1.  **Generate Token:** On GitHub (Settings -> Developer -> Personal Access Tokens), generate a token.
+    *   **Fine-grained tokens (Recommended):** Restricted to specific repositories.
+    *   **Tokens (classic):** Easier to set up but broader access. Ensure `repo` scope is selected.
 2.  **Initialize Repo (if starting fresh):**
     ```bash
     cd ~/YourProject
